@@ -4,7 +4,6 @@
 - Passionné par le développement logiciel et les nouvelles technologies.
 - Toujours curieux d’apprendre de nouveaux langages et frameworks.
 - Étudiant en informatique et développeur en devenir.
-- 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width=400 style="border-radius: 10px;">
 
 ## 🖥️ Technologies & Langages
