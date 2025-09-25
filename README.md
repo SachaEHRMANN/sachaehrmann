@@ -28,4 +28,3 @@
 
 ## 🔗 Me contacter
 - [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/)  
