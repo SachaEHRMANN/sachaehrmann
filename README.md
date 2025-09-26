@@ -27,4 +27,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 🔗 Me contacter
-- [LinkedIn](https://www.linkedin.com/)  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/)
+- 📧 sacha.ehrmann@etu.unistra.fr
