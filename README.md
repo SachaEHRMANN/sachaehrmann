@@ -1,9 +1,11 @@
 ![Header](./github-header-banner.png)
       
-## 💻 À propos de moi
-- Passionné par le développement logiciel et les nouvelles technologies.
-- Toujours curieux d’apprendre de nouveaux langages et frameworks.
-- Étudiant en informatique et développeur en devenir.
+## 👋 À propos de moi  
+
+**Sacha**, 18 ans  
+🎓 Étudiant en **2ème année de BUT Informatique**  
+💡 Parcours : **Développement d’applications**  
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width=400 style="border-radius: 10px;">
 
 ## 🖥️ Technologies & Langages
@@ -30,3 +32,4 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/)
 - 📧 sacha.ehrmann@etu.unistra.fr
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
