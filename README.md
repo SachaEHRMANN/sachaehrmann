@@ -30,6 +30,6 @@
 
 ## 🔗 Me contacter
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](www.linkedin.com/in/sacha-ehrmann)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/> LinkedIn](https://www.linkedin.com/in/sacha-ehrmann)
 - 📧 sacha.ehrmann@etu.unistra.fr
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
